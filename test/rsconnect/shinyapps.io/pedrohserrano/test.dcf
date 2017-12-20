@@ -1,0 +1,10 @@
+name: test
+title:
+username:
+account: pedrohserrano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 250622
+bundleId: 1144456
+url: https://pedrohserrano.shinyapps.io/test/
+when: 1513777158.21703

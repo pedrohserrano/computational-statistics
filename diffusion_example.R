@@ -7,6 +7,7 @@ plot(dis, type= 'l',main= 'Brownian Motion in One Dimension', xlab='time', ylab=
 
 
 ############ WEINER PACKAGE
+#install.packages("RWiener")
 library(RWiener)
 set.seed(0)
 n=100
